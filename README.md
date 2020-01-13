@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/SnehaParleTraining/Project%205%20-%20NodeJs/_apis/build/status/Prashneha.pipelines-javascript?branchName=master)](https://dev.azure.com/SnehaParleTraining/Project%205%20-%20NodeJs/_build/latest?definitionId=5&branchName=master)
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
